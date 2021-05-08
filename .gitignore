@@ -1,15 +1,2 @@
-/.idea/compiler.xml
-/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
-/.idea/dbnavigator.xml
-/.idea/encodings.xml
-/target/classes/Example.class
-/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-/.idea/misc.xml
-/target/maven-archiver/pom.properties
-/.idea/codeStyles/Project.xml
-/target/spring-boot-demo-app-1.0-SNAPSHOT.jar
-/target/spring-boot-demo-app-1.0-SNAPSHOT.jar.original
-/.idea/vcs.xml
-/.idea/jarRepositories.xml
+/.idea/*
+/target/*
